@@ -1,0 +1,1646 @@
+[
+    {
+        "_id": "5ab9190e554299753720f6f1",
+        "question": "What is the name of the school located near the Brea mall owned by Simon Property Group?",
+        "answer": "Brea Olinda High School",
+        "supporting_facts": [
+            [
+                "Brea Olinda High School",
+                0
+            ],
+            [
+                "Brea Olinda High School",
+                1
+            ],
+            [
+                "Brea Mall",
+                0
+            ],
+            [
+                "Brea Mall",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5a857e045542991dd0999e5c",
+        "question": "Without Limits is a biographical sports film about what distance runner who competed in the 1972 Olympics?",
+        "answer": "Steve Roland \"Pre\" Prefontaine",
+        "supporting_facts": [
+            [
+                "Without Limits",
+                1
+            ],
+            [
+                "Steve Prefontaine",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ab7a0e95542995dae37e97c",
+        "question": "How many tickets were sold in the 2004 South Korean romantic comedy staring Park Jin-woo?",
+        "answer": "3,149,500",
+        "supporting_facts": [
+            [
+                "Park Jin-woo",
+                0
+            ],
+            [
+                "Park Jin-woo",
+                1
+            ],
+            [
+                "My Little Bride",
+                0
+            ],
+            [
+                "My Little Bride",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5ac1975855429964131be241",
+        "question": "In which country can you find Raiffeisen Bank International, a part of the Raiffeisen Bankengruppe?",
+        "answer": "Austria",
+        "supporting_facts": [
+            [
+                "Raiffeisen Bank International",
+                0
+            ],
+            [
+                "Raiffeisen Bank International",
+                1
+            ],
+            [
+                "Raiffeisen Bankengruppe (Austria)",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a87822c5542993e715abf93",
+        "question": "Who designed the building just in front of Job 600?",
+        "answer": "Kwame Nkrumah",
+        "supporting_facts": [
+            [
+                "Job 600",
+                0
+            ],
+            [
+                "Job 600",
+                1
+            ],
+            [
+                "Parliament House of Ghana",
+                2
+            ]
+        ]
+    },
+    {
+        "_id": "5ab7071a5542992aa3b8c77a",
+        "question": "Gene Gutowski was a producer of the 1965 film starring which actress?",
+        "answer": "Catherine Deneuve",
+        "supporting_facts": [
+            [
+                "Gene Gutowski",
+                0
+            ],
+            [
+                "Repulsion (film)",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a8ebe5755429917b4a5bdc0",
+        "question": "Here We Go Round the Mulberry Bush is a 1967 British film made based on the novel of the same name by a writer who wrote the biography of which band ?",
+        "answer": "the Beatles",
+        "supporting_facts": [
+            [
+                "Here We Go Round the Mulberry Bush (film)",
+                0
+            ],
+            [
+                "Hunter Davies",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5a7f28a855429934daa2fd0a",
+        "question": "Do both Bodyjar and Fishbone perform punk music?",
+        "answer": "yes",
+        "supporting_facts": [
+            [
+                "Bodyjar",
+                0
+            ],
+            [
+                "Fishbone",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ac0d8685542992a796ded83",
+        "question": "The person that formed The Jeff Beck Group had been a guitarist in a group formed when?",
+        "answer": "1963",
+        "supporting_facts": [
+            [
+                "The Jeff Beck Group",
+                0
+            ],
+            [
+                "The Yardbirds",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ab4355855429942dd415ee4",
+        "question": "Columba de Dunbar was Bishop of Moray from 1422 until his death at the fortified seat of the Bishops of Moray, that is situated where?",
+        "answer": "Grid Ref NJ 230658",
+        "supporting_facts": [
+            [
+                "Columba de Dunbar",
+                0
+            ],
+            [
+                "Spynie Palace",
+                0
+            ],
+            [
+                "Spynie Palace",
+                2
+            ]
+        ]
+    },
+    {
+        "_id": "5ac29790554299218029daae",
+        "question": "Tetsuo Nagata was the Director of Photography for which 2007 French biographical film?",
+        "answer": "La Vie en Rose",
+        "supporting_facts": [
+            [
+                "Tetsuo Nagata",
+                0
+            ],
+            [
+                "Tetsuo Nagata",
+                1
+            ],
+            [
+                "La Vie en rose (film)",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a884af955429938390d3f24",
+        "question": "Gold Mountain Casino is 34 miles north of another casino with how many table poker rooms?",
+        "answer": "46",
+        "supporting_facts": [
+            [
+                "Gold Mountain Casino",
+                5
+            ],
+            [
+                "WinStar World Casino",
+                4
+            ]
+        ]
+    },
+    {
+        "_id": "5ab5cd49554299494045f069",
+        "question": "The Advanced Tactical Fighter (ATF) was a demonstration and validation program undertaken by the United States Air Force, including the Soviet Sukhoi Su-27, a twin-engine supermaneuverable fighter aircraft designed by Sukhoi, it was designed to complement which aircraft?",
+        "answer": "Mikoyan MiG-29",
+        "supporting_facts": [
+            [
+                "Advanced Tactical Fighter",
+                0
+            ],
+            [
+                "Sukhoi Su-27",
+                3
+            ]
+        ]
+    },
+    {
+        "_id": "5ae0bf835542993d6555ec37",
+        "question": "Money is an American thriller film, directed by Martin Rosete, the film stars include Jesse Williams, an American actor, model, and activist, best known for his role as who, on the ABC Television series \"Grey's Anatomy\"?",
+        "answer": "Dr. Jackson Avery",
+        "supporting_facts": [
+            [
+                "Money (2016 film)",
+                1
+            ],
+            [
+                "Jesse Williams (actor)",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a7cea6b554299452d57ba9f",
+        "question": "Who is older - Christina Booth or Pharrell Williams ?",
+        "answer": "Christina Maria Booth",
+        "supporting_facts": [
+            [
+                "Christina Booth",
+                0
+            ],
+            [
+                "Pharrell Williams",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a7df70c5542995f4f402354",
+        "question": "Who is older, Kristin Hersh or Jake Burns?",
+        "answer": "John \"Jake\" Burns",
+        "supporting_facts": [
+            [
+                "Kristin Hersh",
+                0
+            ],
+            [
+                "Jake Burns",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5adf1c485542995534e8c755",
+        "question": "Dmitri Sychev and Michael Owen were both what?",
+        "answer": "footballer",
+        "supporting_facts": [
+            [
+                "Dmitri Sychev",
+                0
+            ],
+            [
+                "Michael Owen",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ab5f156554299637185c62c",
+        "question": "Kim Joo-Hyuk starred in what film, based on the novel by Park Hyun-wook?",
+        "answer": "My Wife Got Married",
+        "supporting_facts": [
+            [
+                "Kim Joo-hyuk",
+                1
+            ],
+            [
+                "My Wife Got Married",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5a7ba5d3554299294a54aa58",
+        "question": "What body of water bounds, to the north and west, the region of Australia where the Muccan Station resides?",
+        "answer": "the Indian Ocean",
+        "supporting_facts": [
+            [
+                "Muccan Station",
+                0
+            ],
+            [
+                "Western Australia",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5ab471cc5542996a3a969f84",
+        "question": "A sucessful auditionee for The Saturdays, whom also was in another girl band, appeared on what reality tv show?",
+        "answer": "\"The X Factor\"",
+        "supporting_facts": [
+            [
+                "The Saturdays discography",
+                1
+            ],
+            [
+                "Mollie King",
+                3
+            ]
+        ]
+    },
+    {
+        "_id": "5adff23f554299603e4183cf",
+        "question": "What is the name of the form of social stratification characterized by customary social interaction and exclusion and have a large population from Channa Mohallah?",
+        "answer": "caste",
+        "supporting_facts": [
+            [
+                "Channa Mohallah",
+                0
+            ],
+            [
+                "Channa Mohallah",
+                1
+            ],
+            [
+                "Channa Mohallah",
+                2
+            ],
+            [
+                "Caste",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a79ce6b5542994f819ef0b1",
+        "question": "The story that won the Hugo Award in 1974 depicts what kind of festival?",
+        "answer": "summer",
+        "supporting_facts": [
+            [
+                "The Wind's Twelve Quarters",
+                3
+            ],
+            [
+                "The Ones Who Walk Away from Omelas",
+                0
+            ],
+            [
+                "The Ones Who Walk Away from Omelas",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5adf9c15554299025d62a2dd",
+        "question": "What record label features stars such as Rita Coolidge and Burt Bacharach?",
+        "answer": "A&M Records",
+        "supporting_facts": [
+            [
+                "Greatest Hits (Rita Coolidge album)",
+                0
+            ],
+            [
+                "A&amp;M Records",
+                2
+            ]
+        ]
+    },
+    {
+        "_id": "5a877f5b5542993e715abf82",
+        "question": "What was the 2010 population of the county that contained Hecla?",
+        "answer": "9,246",
+        "supporting_facts": [
+            [
+                "Hecla, Montana",
+                0
+            ],
+            [
+                "Beaverhead County, Montana",
+                0
+            ],
+            [
+                "Beaverhead County, Montana",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5abbe945554299114383a08c",
+        "question": "The Grinch is a fictional character created by an author that died in what year?",
+        "answer": "1991",
+        "supporting_facts": [
+            [
+                "Grinch",
+                0
+            ],
+            [
+                "Dr. Seuss",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a8c5a305542996e8ac88a6e",
+        "question": "What was the email system released by the owners of the Perkins Estate in the 1980s called?",
+        "answer": "Lotus Notes",
+        "supporting_facts": [
+            [
+                "Perkins Estate",
+                3
+            ],
+            [
+                "Lotus Software",
+                2
+            ]
+        ]
+    },
+    {
+        "_id": "5ae61dc355429929b0807ada",
+        "question": "Siberia Acoustic is a remix album by the Canadian musician and songwriter best known for which gold-certified albums?",
+        "answer": "\"The Listening\" and \"Siberia\"",
+        "supporting_facts": [
+            [
+                "Siberia Acoustic",
+                0
+            ],
+            [
+                "Lights (musician)",
+                0
+            ],
+            [
+                "Lights (musician)",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5ae1a728554299234fd042ae",
+        "question": "Where did the European section of the 2018 FIFA World Cup qualification which Group C is one of the nine group held",
+        "answer": "Russia",
+        "supporting_facts": [
+            [
+                "2018 FIFA World Cup qualification – UEFA Group C",
+                0
+            ],
+            [
+                "2018 FIFA World Cup qualification (UEFA)",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a7651375542992d0ec060a2",
+        "question": "Who is American Airlines partner headquartered in Barnstable Municipal Airport.",
+        "answer": "Cape Air",
+        "supporting_facts": [
+            [
+                "Cape Girardeau Regional Airport",
+                2
+            ],
+            [
+                "Cape Air",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5adce35d5542992c1e3a2467",
+        "question": "What was the English adopted name of the Native American shot by John Alderman?",
+        "answer": "King Philip",
+        "supporting_facts": [
+            [
+                "Josiah Standish",
+                3
+            ],
+            [
+                "Metacomet",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ab7bce85542993667793ff6",
+        "question": "Which of the following is a women's magazine for African American women: Essence or New Zealand Woman's Weekly?",
+        "answer": "Essence",
+        "supporting_facts": [
+            [
+                "Essence (magazine)",
+                0
+            ],
+            [
+                "New Zealand Woman's Weekly",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5abe1eb95542991f661060db",
+        "question": "What is the second-largest city in Denmark, and also where the Vestergade 58 building is listed?",
+        "answer": "Aarhus",
+        "supporting_facts": [
+            [
+                "Vestergade 58",
+                0
+            ],
+            [
+                "Aarhus",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ac036565542992a796deccc",
+        "question": "Black Kids and Kill Hannah are two American rock bands. Which of these bands is considered an indie rock band?",
+        "answer": "Black Kids",
+        "supporting_facts": [
+            [
+                "Black Kids",
+                0
+            ],
+            [
+                "Kill Hannah",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ae4c1965542995dadf243e1",
+        "question": "Carlos Barreto has a notable win over which Heavyweight class UFC fighter?",
+        "answer": "Ben Rothwell",
+        "supporting_facts": [
+            [
+                "Carlos Barreto (fighter)",
+                1
+            ],
+            [
+                "Ben Rothwell",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ab1f2445542993be8fa9890",
+        "question": "In what county is the Maine School Administrative District 6 located?",
+        "answer": "York County",
+        "supporting_facts": [
+            [
+                "Maine School Administrative District 6",
+                0
+            ],
+            [
+                "Limington, Maine",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a8c87ed554299653c1aa0ad",
+        "question": "Mumtaz Mahal is an album by  Taj Mahal Vishwa Mohan Bhatt and an Indian musician considered one of the most celebrated prodigies and musicians from what age",
+        "answer": "two",
+        "supporting_facts": [
+            [
+                "Mumtaz Mahal (album)",
+                0
+            ],
+            [
+                "N. Ravikiran",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a8b56665542995d1e6f136b",
+        "question": "Vancouveria and Stigmaphyllon, are a type of what?",
+        "answer": "plants",
+        "supporting_facts": [
+            [
+                "Vancouveria",
+                0
+            ],
+            [
+                "Stigmaphyllon",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a835a795542996488c2e425",
+        "question": "When was Camp Cornette's manager born ?",
+        "answer": "September 17, 1961",
+        "supporting_facts": [
+            [
+                "Camp Cornette",
+                1
+            ],
+            [
+                "Jim Cornette",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a7fe4915542994857a7682e",
+        "question": "Riviera Holdings Corporation owned a casino In Nevada which operated until what year?",
+        "answer": "2015",
+        "supporting_facts": [
+            [
+                "Riviera Holdings",
+                0
+            ],
+            [
+                "Riviera Holdings",
+                1
+            ],
+            [
+                "Riviera (hotel and casino)",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a8e9b735542990e94052b75",
+        "question": "Who played Touchstone in the 2006 film of Shakespeare's As You Like It?",
+        "answer": "Alfred Molina",
+        "supporting_facts": [
+            [
+                "As You Like It (2006 film)",
+                0
+            ],
+            [
+                "As You Like It (2006 film)",
+                1
+            ],
+            [
+                "Touchstone (As You Like It)",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a864d165542994775f60739",
+        "question": "Under the Cherry Moon stars the English Actress who won a 1979 BAFTA for what serial?",
+        "answer": "Lillie",
+        "supporting_facts": [
+            [
+                "Under the Cherry Moon",
+                1
+            ],
+            [
+                "Francesca Annis",
+                2
+            ]
+        ]
+    },
+    {
+        "_id": "5abec4e85542994516f4542e",
+        "question": "Nicholas Christopher and John Richardson, occupations are related to writing?",
+        "answer": "yes",
+        "supporting_facts": [
+            [
+                "Nicholas Christopher",
+                0
+            ],
+            [
+                "John Richardson (art historian)",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ac1671c55429964131be1ca",
+        "question": "Which is a comic book, Bedknobs and Broomsticks, or Ruse?",
+        "answer": "Ruse",
+        "supporting_facts": [
+            [
+                "Bedknobs and Broomsticks",
+                0
+            ],
+            [
+                "Ruse (comics)",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ae1e7f65542997283cd22c7",
+        "question": "Nataraja Service is a 2016 Indian Kannada language romantic emotional comedy film whose music is composed by who?",
+        "answer": "Anoop Seelin",
+        "supporting_facts": [
+            [
+                "Nataraja Service",
+                2
+            ],
+            [
+                "Anoop Seelin",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ae726ad5542991e8301cb64",
+        "question": "The rock group A Perfect Circle was founded by Billy Howerdel and another musician who was born in what year?",
+        "answer": "1964",
+        "supporting_facts": [
+            [
+                "A Perfect Circle",
+                0
+            ],
+            [
+                "Maynard James Keenan",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a86548355429960ec39b660",
+        "question": "Bryan James Harper (born December 29, 1989) is an American baseball pitcher in the Washington Nationals organization, he is the older brother of Nationals outfielder, Bryce Aron Max Harper (born October 16, 1992) is an American professional baseball right fielder, for the Washington Nationals,they work for which league organization?",
+        "answer": "Major League Baseball",
+        "supporting_facts": [
+            [
+                "Bryan Harper (baseball)",
+                0
+            ],
+            [
+                "Bryce Harper",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ab7b8d155429928e1fe38a6",
+        "question": "Which University did the gymnastics coach, who recruited a two time gold medal winner in the 1984 Summer Olympics, attend?",
+        "answer": "University of Oklahoma",
+        "supporting_facts": [
+            [
+                "Paul Ziert",
+                0
+            ],
+            [
+                "Paul Ziert",
+                1
+            ],
+            [
+                "Bart Conner",
+                0
+            ],
+            [
+                "Bart Conner",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5a813f9355429938b614230e",
+        "question": "The pianist, music critic, and teacher Olga Samaroff married for the second time this English conductor of Jewish-Polish and Irish descent who appeared in which film?",
+        "answer": "Fantasia",
+        "supporting_facts": [
+            [
+                "Olga Samaroff",
+                0
+            ],
+            [
+                "Olga Samaroff",
+                2
+            ],
+            [
+                "Leopold Stokowski",
+                0
+            ],
+            [
+                "Leopold Stokowski",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5ab7e55b5542995dae37e9e1",
+        "question": "Who is a judge on The X Factor and is also married to Ozzy Osbourne?",
+        "answer": "Sharon Osbourne",
+        "supporting_facts": [
+            [
+                "The X Factor (UK series 5)",
+                0
+            ],
+            [
+                "The X Factor (UK series 5)",
+                4
+            ],
+            [
+                "Sharon Osbourne",
+                2
+            ]
+        ]
+    },
+    {
+        "_id": "5ab91ff0554299753720f710",
+        "question": "Both Acanthus and Sansevieria are both species that consist of what type of plants?",
+        "answer": "flowering plants",
+        "supporting_facts": [
+            [
+                "Acanthus (plant)",
+                0
+            ],
+            [
+                "Sansevieria",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a8d15b75542994ba4e3dbea",
+        "question": "What host of The Voice UK was in \"Doctor Who\"?",
+        "answer": "Reggie Yates",
+        "supporting_facts": [
+            [
+                "The Voice UK (series 2)",
+                1
+            ],
+            [
+                "Reggie Yates",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a8eeb1e5542995085b374b7",
+        "question": "Which island is the largest and only permanently populated island of the Svalbard archipelago and is also home to the Gavrilovfjellet mountain?",
+        "answer": "Spitsbergen",
+        "supporting_facts": [
+            [
+                "Gavrilovfjellet",
+                0
+            ],
+            [
+                "Spitsbergen",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ae52ba75542992663a4f12c",
+        "question": "Who founded the Krusty Krab in Spongebob Squarepants?",
+        "answer": "It was founded by Mr. Krabs",
+        "supporting_facts": [
+            [
+                "Help Wanted (SpongeBob SquarePants)",
+                3
+            ],
+            [
+                "Krusty Krab",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5ac4accd5542996feb3fe931",
+        "question": "What type of classical music does the song Ovvoru Pookalume belong to?",
+        "answer": "Hindustani and Carnatic classical music",
+        "supporting_facts": [
+            [
+                "Ovvoru Pookalume",
+                0
+            ],
+            [
+                "Sindhu Bhairavi (raga)",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a7ccc82554299683c1c6382",
+        "question": "When was the Northern Ireland band, which included the Irish country singer born on October 20,1942, formed?",
+        "answer": "1970",
+        "supporting_facts": [
+            [
+                "Country Flavour",
+                0
+            ],
+            [
+                "Country Flavour",
+                1
+            ],
+            [
+                "Philomena Begley",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ac5620d5542993e66e823be",
+        "question": "Where was the French actress with the initials CM, who appeared in a 2012 French–Belgian romantic drama film directed by Jacques Audiard, born?",
+        "answer": "Douai",
+        "supporting_facts": [
+            [
+                "Corinne Masiero",
+                0
+            ],
+            [
+                "Corinne Masiero",
+                1
+            ],
+            [
+                "Rust and Bone",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5adcfe165542992c1e3a24ed",
+        "question": "Adrian Ursea is an assistant to which Swiss football manager?",
+        "answer": "Lucien Favre",
+        "supporting_facts": [
+            [
+                "Adrian Ursea",
+                1
+            ],
+            [
+                "Lucien Favre",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a7d1b84554299452d57baf3",
+        "question": "Who ran the company that produced the largest pieces of artillery used during World War I by barrel length?",
+        "answer": "Gustav Krupp von Bohlen und Halbach",
+        "supporting_facts": [
+            [
+                "Gustav Krupp von Bohlen und Halbach",
+                0
+            ],
+            [
+                "Gustav Krupp von Bohlen und Halbach",
+                2
+            ],
+            [
+                "Paris Gun",
+                3
+            ]
+        ]
+    },
+    {
+        "_id": "5aba59105542994dbf0198ea",
+        "question": "The autobiographical play by Eugene O'Neil was written in 1942, but first published in what year?",
+        "answer": "1956",
+        "supporting_facts": [
+            [
+                "February 1956",
+                0
+            ],
+            [
+                "Long Day's Journey into Night",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ae725975542992ae0d163ca",
+        "question": "Daniel Ross is the voice of Donald Duck in which Disney Junior series?",
+        "answer": "Mickey and the Roadster Racers",
+        "supporting_facts": [
+            [
+                "Daniel Ross (actor)",
+                1
+            ],
+            [
+                "Mickey and the Roadster Racers",
+                0
+            ],
+            [
+                "Mickey and the Roadster Racers",
+                2
+            ]
+        ]
+    },
+    {
+        "_id": "5ac4ef715542996feb3fe988",
+        "question": "Which airline headquartered in Madrid, Spain operated an Air Algerie flight which crashed in Mali in 2014?",
+        "answer": "Swiftair",
+        "supporting_facts": [
+            [
+                "Air Algérie Flight 5017",
+                0
+            ],
+            [
+                "Swiftair",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ae62f125542992ae0d16269",
+        "question": "Bern Airport, is an airport serving Bern, the capital of Switzerland, it serves as the homebase for which Swiss airline, with its head office in Belp near Bern, and a base for Helvetic Airways?",
+        "answer": "SkyWork Airlines",
+        "supporting_facts": [
+            [
+                "Bern Airport",
+                2
+            ],
+            [
+                "SkyWork Airlines",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ab1ff68554299340b525462",
+        "question": "Who was the Master of Ceremonies, Bert Newton or Michael Joseph Farrell, Jr?",
+        "answer": "Bert Newton",
+        "supporting_facts": [
+            [
+                "Logie Awards of 1978",
+                1
+            ],
+            [
+                "Mike Farrell",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ab2e92c55429929539468ab",
+        "question": "What is the name of the British award that was won by both Paul Rodgers and Gary Barlow ?",
+        "answer": "Ivor Novello Award",
+        "supporting_facts": [
+            [
+                "Paul Rodgers",
+                6
+            ],
+            [
+                "Gary Barlow",
+                5
+            ]
+        ]
+    },
+    {
+        "_id": "5ae508405542993aec5ec116",
+        "question": "What notable Italian artist and writer founded the \"scuola metafisica\" art movement and painted The Nostalgia of the Infinite?",
+        "answer": "Giorgio de Chirico",
+        "supporting_facts": [
+            [
+                "The Nostalgia of the Infinite",
+                0
+            ],
+            [
+                "Giorgio de Chirico",
+                0
+            ],
+            [
+                "Giorgio de Chirico",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5ac422be5542997ea680ca0e",
+        "question": "What university was founded in part by the man falsly cited as giving the antisemitic speech known as \"The Franklin Prophecy\"?",
+        "answer": "University of Pennsylvania",
+        "supporting_facts": [
+            [
+                "Franklin Prophecy",
+                0
+            ],
+            [
+                "Benjamin Franklin",
+                4
+            ]
+        ]
+    },
+    {
+        "_id": "5adf479e5542993a75d2647b",
+        "question": "The song \"Tonight Quintet\" had its lyrics composed by an American lyricist born in what year?",
+        "answer": "1930",
+        "supporting_facts": [
+            [
+                "Tonight Quintet",
+                0
+            ],
+            [
+                "Stephen Sondheim",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a779cac5542992a6e59df25",
+        "question": "What university, founded in 1978, has bases in NJ and a city in Broward County FL?",
+        "answer": "Ross University School of Medicine",
+        "supporting_facts": [
+            [
+                "Ross University School of Medicine",
+                0
+            ],
+            [
+                "Ross University School of Medicine",
+                1
+            ],
+            [
+                "Miramar, Florida",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5adbdbc855429944faac238b",
+        "question": "Warrendale and The Memory of Justice, are which type of films?",
+        "answer": "documentary",
+        "supporting_facts": [
+            [
+                "Warrendale",
+                0
+            ],
+            [
+                "The Memory of Justice",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ab1f19c5542993be8fa988e",
+        "question": "What is the informal name of the British soap opera created by Granada Television that Jon Rollason has appeared in episodes of?",
+        "answer": "Corrie",
+        "supporting_facts": [
+            [
+                "Jon Rollason",
+                2
+            ],
+            [
+                "Coronation Street",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a8ab8835542992d82986f62",
+        "question": "How many episodes will this season of Will & Grace that contains the episode \"11 Years Later\" have?",
+        "answer": "16",
+        "supporting_facts": [
+            [
+                "11 Years Later",
+                0
+            ],
+            [
+                "Will &amp; Grace (season 9)",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5a77181c55429966f1a36c53",
+        "question": "What recorder of I Saw Mommy Kissing Santa Claus starred in The Two Little Bears?",
+        "answer": "Jimmy Boyd",
+        "supporting_facts": [
+            [
+                "The Two Little Bears",
+                0
+            ],
+            [
+                "The Two Little Bears",
+                1
+            ],
+            [
+                "Jimmy Boyd",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ac17ba65542994d76dcce6e",
+        "question": "What country of origin does Sebastian Sauve and Jeremy Scott have in common?",
+        "answer": "American",
+        "supporting_facts": [
+            [
+                "Sebastian Sauve",
+                0
+            ],
+            [
+                "Jeremy Scott",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ab29f5d554299545a2cf9e4",
+        "question": "An American film and television writer is known for a 1983 British American swashbuckler film that was directed by Peter Yates, and was produced by who?",
+        "answer": "Ron Silverman",
+        "supporting_facts": [
+            [
+                "Stanford Sherman",
+                0
+            ],
+            [
+                "Krull (film)",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a77b7485542997042120afc",
+        "question": "What sport did Mahesh Bhupathi and Chris Evert play?",
+        "answer": "tennis",
+        "supporting_facts": [
+            [
+                "Mahesh Bhupathi",
+                0
+            ],
+            [
+                "Chris Evert",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a821e21554299676cceb21e",
+        "question": "The United Wireless Arena is located in what county?",
+        "answer": "Ford County",
+        "supporting_facts": [
+            [
+                "2014 Dodge City Law season",
+                2
+            ],
+            [
+                "Dodge City, Kansas",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a74dd255542996c70cfae21",
+        "question": "North is a 1994 American comedy drama adventure film, which American actress made her film debut in the fantasy comedy?",
+        "answer": "Scarlett Johansson",
+        "supporting_facts": [
+            [
+                "North (1994 film)",
+                0
+            ],
+            [
+                "Scarlett Johansson",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a81e78d554299676cceb150",
+        "question": "What was the capital of the union of provinces in the Río de la Plata comprised by most of the former dependencies from the last to be organized and also the shortest-lived of the Viceroyalties of the Spanish Empire in the Americas?",
+        "answer": "Buenos Aires",
+        "supporting_facts": [
+            [
+                "United Provinces of the Rio de la Plata",
+                0
+            ],
+            [
+                "United Provinces of the Rio de la Plata",
+                1
+            ],
+            [
+                "Viceroyalty of the Río de la Plata",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a83180855429966c78a6b31",
+        "question": "NBA Jam 2001 is a sports Game Boy Color game made by Acclaim Entertainment as licensed basketball simulation for the 2001-2002 NBA season, it featured which American retired professional basketball player who was a point guard in the National Basketball Association (NBA) for twelve seasons during the late 1990s and 2000s?",
+        "answer": "Jason Chandler Williams",
+        "supporting_facts": [
+            [
+                "NBA Jam 2001",
+                2
+            ],
+            [
+                "Jason Williams (basketball, born 1975)",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ab52e01554299637185c4f4",
+        "question": "What was Patrick Scheuermann director of which is located on the Mississippi–Louisiana border?",
+        "answer": "John C. Stennis Space Center",
+        "supporting_facts": [
+            [
+                "Patrick Scheuermann",
+                3
+            ],
+            [
+                "John C. Stennis Space Center",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5ade3f4255429939a52fe86b",
+        "question": "Nasreddin or Nasreddin Hodja, was a Seljuq satirical Sufi, born in Hortu Village in Sivrihisar, Eskişehir Province, in which present-day country, and considered a philosopher of Populism?",
+        "answer": "Turkey",
+        "supporting_facts": [
+            [
+                "Nasreddin",
+                0
+            ],
+            [
+                "Populism",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a8326c45542990548d0b197",
+        "question": "An Cat Dubh / Into the Heart was from the U2 debut album produced by whom?",
+        "answer": "Steve Lillywhite",
+        "supporting_facts": [
+            [
+                "An Cat Dubh / Into the Heart",
+                0
+            ],
+            [
+                "Boy (album)",
+                0
+            ],
+            [
+                "Boy (album)",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5a76c7d75542994aec3b7176",
+        "question": "Popular Photography and Harvard Business Review, are American media of what type?",
+        "answer": "magazine",
+        "supporting_facts": [
+            [
+                "Popular Photography",
+                0
+            ],
+            [
+                "Harvard Business Review",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a7c1b9a5542990527d55454",
+        "question": "The Salado river flows through the provinces of Santiago and Santa Fe in the north of which country?",
+        "answer": "Argentina",
+        "supporting_facts": [
+            [
+                "Salado River (Argentina)",
+                0
+            ],
+            [
+                "Santiago del Estero Province",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ae2af41554299492dc91c45",
+        "question": "Who starred in Kung Fu Panda as well as The Big Year?",
+        "answer": "Jack Black",
+        "supporting_facts": [
+            [
+                "The Big Year",
+                0
+            ],
+            [
+                "Jack Black",
+                2
+            ]
+        ]
+    },
+    {
+        "_id": "5ab7e6bf5542992aa3b8c884",
+        "question": "The Crazy Gang played frequent and outrageous practical jokes on a former player frequently known by what nickname?",
+        "answer": "Harry",
+        "supporting_facts": [
+            [
+                "Crazy Gang",
+                0
+            ],
+            [
+                "Crazy Gang",
+                1
+            ],
+            [
+                "Dave Bassett",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a7f66ae5542992097ad2f50",
+        "question": "What country do both Marston, Cheshire and Anderton Boat Lift reside?",
+        "answer": "England",
+        "supporting_facts": [
+            [
+                "Marston, Cheshire",
+                0
+            ],
+            [
+                "Anderton Boat Lift",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ab50bd45542991779162d6a",
+        "question": "The Spies Who Surf played with what surf rock guitarist also known as \"The King of the Surf Guitar\"?",
+        "answer": "Dick Dale",
+        "supporting_facts": [
+            [
+                "Spies Who Surf",
+                0
+            ],
+            [
+                "Spies Who Surf",
+                2
+            ],
+            [
+                "Dick Dale",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5abc1a505542993a06baf87a",
+        "question": "Which musician or group is from Ireland, Sam Roberts or Music for Dead Birds?",
+        "answer": "Music for Dead Birds",
+        "supporting_facts": [
+            [
+                "Sam Roberts",
+                0
+            ],
+            [
+                "Music for Dead Birds",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ac3a6a0554299218029dbf0",
+        "question": "Who wrote Shakespeare Wrote for Money and \"Stuff I've been reading\"?",
+        "answer": "Nick Hornby",
+        "supporting_facts": [
+            [
+                "Shakespeare Wrote for Money",
+                0
+            ],
+            [
+                "The Believer (magazine)",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ab9465f554299131ca422ed",
+        "question": "Il trovatore and Lady Macbeth of the Mtsensk District, are which type of theater?",
+        "answer": "opera",
+        "supporting_facts": [
+            [
+                "Il trovatore",
+                0
+            ],
+            [
+                "Lady Macbeth of the Mtsensk District (opera)",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5ae5d41d554299546bf82f8e",
+        "question": "What award was given to the Norwegian-born American physical chemist which Bruria Kaufman used applied spinor analysis to rederive the result of on the partition function of the two-dimensional Ising Model",
+        "answer": "Nobel Prize in Chemistry",
+        "supporting_facts": [
+            [
+                "Bruria Kaufman",
+                1
+            ],
+            [
+                "Lars Onsager",
+                2
+            ]
+        ]
+    },
+    {
+        "_id": "5ab58555554299488d4d99c9",
+        "question": "How many Bombardier Dash 8's does the airline that operates flights to other communities in Finnmark from Honningsvåg Airport, Valan have?",
+        "answer": "41",
+        "supporting_facts": [
+            [
+                "Honningsvåg Airport, Valan",
+                3
+            ],
+            [
+                "Widerøe",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5ab833f655429934fafe6d12",
+        "question": "What song, by American band Flobots, formed in 2005 by Jamie Laurie appears on their debut album, \"Fight with Tools\", and is the group's largest success?",
+        "answer": "Handlebars",
+        "supporting_facts": [
+            [
+                "Flobots",
+                0
+            ],
+            [
+                "Flobots",
+                2
+            ],
+            [
+                "Handlebars (song)",
+                0
+            ],
+            [
+                "Handlebars (song)",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5ab6e0fd554299710c8d1f92",
+        "question": "In between Helen Hunt and Eduard Zahariev who is a Bulgarian film director?",
+        "answer": "Eduard Zahariev",
+        "supporting_facts": [
+            [
+                "Helen Hunt",
+                0
+            ],
+            [
+                "Eduard Zahariev",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a7460d955429929fddd8400",
+        "question": "What band made their debut in 1978 and is a member of the Evangelical Covenant Church?",
+        "answer": "Jesus People USA",
+        "supporting_facts": [
+            [
+                "Resurrection Band",
+                1
+            ],
+            [
+                "Resurrection Band",
+                4
+            ],
+            [
+                "Jesus People USA",
+                0
+            ],
+            [
+                "Jesus People USA",
+                2
+            ]
+        ]
+    },
+    {
+        "_id": "5ae699145542996d980e7c38",
+        "question": "Which uncompleted opera was written by the composer of Croquefer, ou Le dernier des paladins?",
+        "answer": "The Tales of Hoffmann",
+        "supporting_facts": [
+            [
+                "Croquefer, ou Le dernier des paladins",
+                0
+            ],
+            [
+                "Jacques Offenbach",
+                1
+            ]
+        ]
+    },
+    {
+        "_id": "5a7a5d985542990783324f2b",
+        "question": "Who was born first, Reginald Denham or Jack Conway?",
+        "answer": "Jack Ryan Conway",
+        "supporting_facts": [
+            [
+                "Reginald Denham",
+                0
+            ],
+            [
+                "Jack Conway (filmmaker)",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a809b275542992097ad3006",
+        "question": "In which exhibition of 1964 Joseph James Paparella was an umpire?",
+        "answer": "35th midseason exhibition",
+        "supporting_facts": [
+            [
+                "Joe Paparella",
+                0
+            ],
+            [
+                "Joe Paparella",
+                2
+            ],
+            [
+                "1964 Major League Baseball All-Star Game",
+                0
+            ]
+        ]
+    },
+    {
+        "_id": "5a7ffd795542994857a76884",
+        "question": "Where was the 32nd installment of the event held at, that singer of her fifth studio album, \"1989\" led the nominations with a total of ten?",
+        "answer": "Microsoft Theater in Los Angeles",
+        "supporting_facts": [
+            [
+                "2015 MTV Video Music Awards",
+                1
+            ],
+            [
+                "Wildest Dreams (Taylor Swift song)",
+                0
+            ]
+        ]
+    }
+]
