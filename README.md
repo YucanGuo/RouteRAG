@@ -1,4 +1,6 @@
-# RouteRAG
+# <img src="figs/logo.png" alt="RouteRAG Logo" width="35" style="vertical-align: middle;"/> RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning
+
+[![arXiv](https://img.shields.io/badge/arXiv-2512.09487-b31b1b.svg)](https://arxiv.org/abs/2512.09487)
 
 This is the official code release of the following paper:
 
@@ -135,3 +137,15 @@ We would like to thank the following projects for their foundational work:
 
 - **[Search-R1](https://github.com/PeterGriffinJin/Search-R1)**: We built upon their reinforcement learning framework for model training.
 - **[HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)**: Our graph retriever is implemented based on HippoRAG 2.
+
+## 📚 Citation
+
+If you find our work useful, please kindly cite:
+```
+@article{guo2025routerag,
+    title={RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning},
+    author={Yucan Guo and Miao Su and Saiping Guan and Zihao Sun and Xiaolong Jin and Jiafeng Guo and Xueqi Cheng},
+    journal={arXiv preprint arXiv:2512.09487},
+    year={2025}
+}
+```
