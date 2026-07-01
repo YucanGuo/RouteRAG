@@ -1,10 +1,26 @@
 # <img src="figs/logo.png" alt="RouteRAG Logo" width="35" style="vertical-align: middle;"/> RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning
 
-[![arXiv](https://img.shields.io/badge/arXiv-2512.09487-b31b1b.svg)](https://arxiv.org/abs/2512.09487)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.09487-b31b1b.svg)](https://arxiv.org/abs/2512.09487) [![ACL 2026](https://img.shields.io/badge/ACL-2026-blue.svg)](https://aclanthology.org/2026.findings-acl.1502/)
+
+## 💡 Overview
 
 This is the official code release of the following paper:
 
 RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning
+
+### 🌟 Introduction
+
+RouteRAG is a reinforcement learning-based framework that enables LLMs to perform multi-turn and adaptive graph-text hybrid retrieval-augmented generation (RAG). Unlike existing RAG systems that rely on fixed or handcrafted retrieval pipelines, RouteRAG jointly optimizes the entire generation process via RL, empowering the model to dynamically decide:
+
+- 🤔 **When to reason**;
+- 🔍 **What to retrieve (and from unstructured texts or structured knowledge graphs);**
+- ✅ **When to produce the final answer**.
+
+### ✨ Highlights
+
+- **Adaptive Hybrid Retrieval**: Seamlessly routes between text retrieval and graph retrieval based on the current reasoning state, leveraging the complementary strengths of both retrieval modes.
+- **Two-Stage RL Training**: A two-stage RL training framework that first optimizes task accuracy (EM reward) and then incorporates retrieval efficiency reward, enabling the model to exploit hybrid evidence while avoiding unnecessary retrieval overhead.
+- **End-to-End RL Optimization**: The full generation policy is trained end-to-end without any handcrafted rules or fixed pipeline constraints.
 
 ## 📦 1. Installation
 
@@ -141,11 +157,28 @@ We would like to thank the following projects for their foundational work:
 ## 📚 Citation
 
 If you find our work useful, please kindly cite:
+
 ```
-@article{guo2025routerag,
-    title={RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning},
-    author={Yucan Guo and Miao Su and Saiping Guan and Zihao Sun and Xiaolong Jin and Jiafeng Guo and Xueqi Cheng},
-    journal={arXiv preprint arXiv:2512.09487},
-    year={2025}
+@inproceedings{guo-etal-2026-routerag,
+    title = "{R}oute{RAG}: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning",
+    author = "Guo, Yucan  and
+      Su, Miao  and
+      Guan, Saiping  and
+      Sun, Zihao  and
+      Jin, Xiaolong  and
+      Guo, Jiafeng  and
+      Cheng, Xueqi",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.1502/",
+    pages = "30042--30059",
+    ISBN = "979-8-89176-395-1
 }
 ```
